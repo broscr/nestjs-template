@@ -1,4 +1,12 @@
-# Caller ID Backend
+## NestJS Template
+- Local Auth and JWT Passport and Google Auth
+- Roles Guard (multi role)
+- MongoDb
+- Middleware
+- Validator
+- Global Exception Filter
+- Helmet and Cors
+- Logger Winston
 
 ## Description
 
